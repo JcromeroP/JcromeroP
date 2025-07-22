@@ -2,12 +2,12 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an 8th semester Systems Engineering student. I am good at backend development with Java, Spring Framework, Spring Boot and frontend development with React to complete the Full Stack role. I love learning and creating something new, productive, innovative and creative.
+I'm a tenth-semester Systems Engineering student. I'm proficient in backend development with Java, Spring Framework, and Spring Boot, and frontend development with Angular to perform as a full-stack developer. I'm passionate about learning something new every day and riding a bike.
 
 * **I'm interested in backend development**
 - 🌱 I'm currently improving every day...
 - Java
-- React js
+- Angular
 - 👯 I'm looking forward to collaborating on open source projects.
 - ✔ Ask me about anything, I'll be happy to help, only if the ball is in my court! 😉<br>
 - Outside of tech, I love 🎵 listening to music and 🌴 exploring the outdoors.
@@ -20,7 +20,7 @@ I am an 8th semester Systems Engineering student. I am good at backend developme
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white&color=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </span>
@@ -33,6 +33,7 @@ I am an 8th semester Systems Engineering student. I am good at backend developme
 
 <h4> Databases </h4>
 <span>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -47,10 +48,11 @@ I am an 8th semester Systems Engineering student. I am good at backend developme
 <span>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-fff?style=for-the-badge&logo=Docker">
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/OAuth2.0-339933?style=for-the-badge&logo=oauth&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=orange">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 
 </span>
 
