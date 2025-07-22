@@ -49,7 +49,7 @@ I'm a tenth-semester Systems Engineering student. I'm proficient in backend deve
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-fff?style=for-the-badge&logo=Docker">
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
-  <img src="https://img.shields.io/badge/OAuth2.0-339933?style=for-the-badge&logo=oauth&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2.0-000000?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2.0 black background" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=orange">
